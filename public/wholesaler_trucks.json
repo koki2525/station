@@ -1,0 +1,148 @@
+{
+    "wholesaler_trailers": [
+        {
+            "truck_number": 1,
+            "compartments": {
+                "comp1": {"capacity": 5800, "fuel_type": "ulp93"},
+                "comp2": {"capacity": 5800, "fuel_type": "ulp95"},
+                "comp3": {"capacity": 5700, "fuel_type": "diesel"},
+                "comp4": {"capacity": 6700, "fuel_type": "ulp93"},
+                "comp5": {"capacity": 6700, "fuel_type": "ulp95"},
+                "comp6": {"capacity": 6700, "fuel_type": "diesel"},
+                "comp7": {"capacity": 6700, "fuel_type": "ulp93"}
+            }
+        },
+        {
+            "truck_number": 2,
+            "compartments": {
+                "comp1": {"capacity": 1000, "fuel_type": "ulp95"},
+                "comp2": {"capacity": 1000, "fuel_type": "diesel"},
+                "comp3": {"capacity": 1000, "fuel_type": "ulp93"},
+                "comp4": {"capacity": 0, "fuel_type": null},
+                "comp5": {"capacity": 0, "fuel_type": null},
+                "comp6": {"capacity": 0, "fuel_type": null},
+                "comp7": {"capacity": 0, "fuel_type": null}
+            }
+        },
+        {
+            "truck_number": 3,
+            "compartments": {
+                "comp1": {"capacity": 5800, "fuel_type": "ulp93"},
+                "comp2": {"capacity": 5800, "fuel_type": "ulp95"},
+                "comp3": {"capacity": 5700, "fuel_type": "diesel"},
+                "comp4": {"capacity": 6700, "fuel_type": "ulp93"},
+                "comp5": {"capacity": 6700, "fuel_type": "ulp95"},
+                "comp6": {"capacity": 6700, "fuel_type": "diesel"},
+                "comp7": {"capacity": 6700, "fuel_type": "ulp93"}
+            }
+        },
+        {
+            "truck_number": 4,
+            "compartments": {
+                "comp1": {"capacity": 6700, "fuel_type": "ulp95"},
+                "comp2": {"capacity": 6650, "fuel_type": "diesel"},
+                "comp3": {"capacity": 10150, "fuel_type": "ulp93"},
+                "comp4": {"capacity": 6600, "fuel_type": "ulp95"},
+                "comp5": {"capacity": 6750, "fuel_type": "diesel"},
+                "comp6": {"capacity": 0, "fuel_type": null},
+                "comp7": {"capacity": 0, "fuel_type": null}
+            }
+        },
+        {
+            "truck_number": 5,
+            "compartments": {
+                "comp1": {"capacity": 6000, "fuel_type": "diesel"},
+                "comp2": {"capacity": 6000, "fuel_type": "ulp93"},
+                "comp3": {"capacity": 6000, "fuel_type": "ulp95"},
+                "comp4": {"capacity": 5900, "fuel_type": "ulp93"},
+                "comp5": {"capacity": 5900, "fuel_type": "diesel"},
+                "comp6": {"capacity": 5900, "fuel_type": "ulp95"},
+                "comp7": {"capacity": 5900, "fuel_type": "diesel"}
+            }
+        },
+        {
+            "truck_number": 6,
+            "compartments": {
+                "comp1": {"capacity": 6700, "fuel_type": "ulp95"},
+                "comp2": {"capacity": 6650, "fuel_type": "diesel"},
+                "comp3": {"capacity": 10150, "fuel_type": "ulp93"},
+                "comp4": {"capacity": 6600, "fuel_type": "ulp95"},
+                "comp5": {"capacity": 6750, "fuel_type": "diesel"},
+                "comp6": {"capacity": 0, "fuel_type": null},
+                "comp7": {"capacity": 0, "fuel_type": null}
+            }
+        },
+        {
+            "truck_number": 7,
+            "compartments": {
+                "comp1": {"capacity": 6700, "fuel_type": "ulp93"},
+                "comp2": {"capacity": 6650, "fuel_type": "ulp95"},
+                "comp3": {"capacity": 10150, "fuel_type": "diesel"},
+                "comp4": {"capacity": 6600, "fuel_type": "ulp93"},
+                "comp5": {"capacity": 6750, "fuel_type": "ulp95"},
+                "comp6": {"capacity": 0, "fuel_type": null},
+                "comp7": {"capacity": 0, "fuel_type": null}
+            }
+        },
+        {
+            "truck_number": 8,
+            "compartments": {
+                "comp1": {"capacity": 6700, "fuel_type": "ulp95"},
+                "comp2": {"capacity": 6600, "fuel_type": "diesel"},
+                "comp3": {"capacity": 10200, "fuel_type": "ulp93"},
+                "comp4": {"capacity": 6600, "fuel_type": "ulp95"},
+                "comp5": {"capacity": 6700, "fuel_type": "diesel"},
+                "comp6": {"capacity": 0, "fuel_type": null},
+                "comp7": {"capacity": 0, "fuel_type": null}
+            }
+        },
+        {
+            "truck_number": 9,
+            "compartments": {
+                "comp1": {"capacity": 6700, "fuel_type": "ulp93"},
+                "comp2": {"capacity": 6600, "fuel_type": "ulp95"},
+                "comp3": {"capacity": 10200, "fuel_type": "diesel"},
+                "comp4": {"capacity": 6600, "fuel_type": "ulp93"},
+                "comp5": {"capacity": 6700, "fuel_type": "ulp95"},
+                "comp6": {"capacity": 0, "fuel_type": null},
+                "comp7": {"capacity": 0, "fuel_type": null}
+            }
+        },
+        {
+            "truck_number": 10,
+            "compartments": {
+                "comp1": {"capacity": 6700, "fuel_type": "ulp95"},
+                "comp2": {"capacity": 6600, "fuel_type": "diesel"},
+                "comp3": {"capacity": 10200, "fuel_type": "ulp93"},
+                "comp4": {"capacity": 6600, "fuel_type": "ulp95"},
+                "comp5": {"capacity": 6700, "fuel_type": "diesel"},
+                "comp6": {"capacity": 0, "fuel_type": null},
+                "comp7": {"capacity": 0, "fuel_type": null}
+            }
+        },
+        {
+            "truck_number": 11,
+            "compartments": {
+                "comp1": {"capacity": 6700, "fuel_type": "ulp93"},
+                "comp2": {"capacity": 6600, "fuel_type": "ulp95"},
+                "comp3": {"capacity": 10150, "fuel_type": "diesel"},
+                "comp4": {"capacity": 6600, "fuel_type": "ulp93"},
+                "comp5": {"capacity": 6700, "fuel_type": "ulp95"},
+                "comp6": {"capacity": 0, "fuel_type": null},
+                "comp7": {"capacity": 0, "fuel_type": null}
+            }
+        },
+        {
+            "truck_number": 12,
+            "compartments": {
+                "comp1": {"capacity": 6700, "fuel_type": "ulp95"},
+                "comp2": {"capacity": 6600, "fuel_type": "diesel"},
+                "comp3": {"capacity": 10150, "fuel_type": "ulp93"},
+                "comp4": {"capacity": 6600, "fuel_type": "ulp95"},
+                "comp5": {"capacity": 6700, "fuel_type": "diesel"},
+                "comp6": {"capacity": 0, "fuel_type": null},
+                "comp7": {"capacity": 0, "fuel_type": null}
+            }
+        }
+    ]
+}

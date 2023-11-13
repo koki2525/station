@@ -1,0 +1,21 @@
+{
+    "stations": [
+        {
+            "station_number": 1,
+            "user_id": 1,
+            "name": "Rachael's Station",
+            "ulp93_capacity": 300001,
+            "ulp95_capacity": 600001,
+            "diesel_capacity": 300001,
+            "ulp93_demand": 5001,
+            "ulp95_demand": 54001,
+            "diesel_demand": 9501,
+            "ulp93_stock": 100000,
+            "ulp95_stock": 300000,
+            "diesel_stock": 400000,
+            "ulp93_sales": 200001,
+            "ulp95_sales": 500001,
+            "diesel_sales": 200001
+        }
+    ]
+}
