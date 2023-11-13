@@ -1,3 +1,9 @@
+<p>Application was developed using Laravel 7. Your local machine needs to have PHP and composer installed. I use XAMPP as a cross-platform web server stack package. Composer can be installed from https://getcomposer.org/
+
+Clone the repo to your local
+Go onto the terminal, and cd into the project folder.
+To run the application, run the command on the terminal 'php artisan serve' and it will display a local url to view on the browser</p>
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
